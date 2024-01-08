@@ -1,6 +1,6 @@
 ### Prazer! Eu sou Brener Freire (◔◡◔)
 
-- 🌱 Estudando Python && SQL;
+- 🌱 Estudando Python, Java, Javascript, SQL;
 - 📫 Contate-me no email: brenerfreiree@gmail.com
 
 <div>
