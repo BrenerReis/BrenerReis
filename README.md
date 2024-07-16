@@ -3,7 +3,7 @@
 - 👨‍💻 Idade: 25 anos 
 - 📚 Conhecimento: Python, Javascript e MySQL;
 - 📧 Contate-me no email: brenerfreiree@gmail.com
-- 👨‍🎓 Formação acadêmica: Cursando 5º semestre de análise e desenvolvimento de sistemas - Fatec São José dos Campos
+- 👨‍🎓 Formação acadêmica: Cursando 6º semestre de análise e desenvolvimento de sistemas - Fatec São José dos Campos
 
 
 <div style="display: inline_block"><br>
