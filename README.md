@@ -1,6 +1,6 @@
   Prazer! Eu sou Brener Freire dos Reis.
   
-- 👨‍💻 Idade: 25 anos 
+- 👨‍💻 Idade: 26 anos 
 - 📚 Conhecimento: Python, Javascript e MySQL;
 - 📧 Contate-me no email: brenerfreiree@gmail.com
 - 👨‍🎓 Formação acadêmica: Cursando 6º semestre de análise e desenvolvimento de sistemas - Fatec São José dos Campos
